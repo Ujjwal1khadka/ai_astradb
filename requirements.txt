@@ -1,0 +1,6 @@
+streamlit
+cassandra-driver
+langchain
+sentence-transformers
+openai
+langchain-community
